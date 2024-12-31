@@ -1,5 +1,3 @@
-## This code was created as an assignment for ICS4UA: AP Computer Science.
-### Language: Java
 ```java
 // Class is called socialinsurancenumber
 package socialinsurancenumber;
