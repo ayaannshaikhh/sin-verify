@@ -1,6 +1,6 @@
 # SIN Verification
 
-A Java application that verifies Canadian Social Insurance Numbers (SIN) using the Luhn algorithm. This project was created as an assignment for the ICS4UA (AP Computer Science) course and is built using Eclipse.
+A Java application that verifies Canadian Social Insurance Numbers (SIN) using the Luhn algorithm.
 
 ## Features
 
