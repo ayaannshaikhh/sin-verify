@@ -1,4 +1,4 @@
-# SIN Verification
+# SIN Verify
 
 A Java application that verifies Canadian Social Insurance Numbers (SIN) using the Luhn algorithm.
 
